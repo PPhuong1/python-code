@@ -1,4 +1,7 @@
+There are 2 challenges here:
+1. Regression analysis
 the challenge is to create predictive model based on sample of test results
 Categorical dependant and independant variables 
 Target variable: Oil rank
 
+2. Data calculation and clean for sample transaction bank data
