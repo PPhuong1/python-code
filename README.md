@@ -7,4 +7,4 @@ Target variable: Oil rank
 
 2. Data clean and calculation of sample bank data
 
-3. Simple grading code
+3. Grading code that helps to grade student's points 
